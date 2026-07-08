@@ -1,0 +1,1954 @@
+{
+  "afghanistan": {
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "population": "42.65 Million",
+    "continent": "Asia",
+    "currency": "Afghan Afghani",
+    "language": "Pashto, Dari",
+    "fact": "Afghanistan is a landlocked country known for its rugged mountains and rich cultural history along the ancient Silk Road.",
+    "flag": "images/afghanistan.jpg"
+  },
+  "albania": {
+    "name": "Albania",
+    "capital": "Tiranë",
+    "population": "2.75 Million",
+    "continent": "Europe",
+    "currency": "Albanian Lek",
+    "language": "Albanian",
+    "fact": "Albania is known for its beautiful Adriatic and Ionian coastlines, historic castles, and warm hospitality.",
+    "flag": "images/albania.jpg"
+  },
+  "algeria": {
+    "name": "Algeria",
+    "capital": "Algiers",
+    "population": "46.8 Million",
+    "continent": "Africa",
+    "currency": "Algerian Dinar",
+    "language": "Arabic, Berber",
+    "fact": "Algeria is Africa's largest country by land area and is home to a vast portion of the Sahara Desert.",
+    "flag": "images/algeria.jpg"
+  },
+  "andorra": {
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "population": "82 Thousand",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "Catalan",
+    "fact": "Andorra is a tiny mountain country famous for skiing, hiking, and duty-free shopping.",
+    "flag": "images/andorra.jpg"
+  },
+  "angola": {
+    "name": "Angola",
+    "capital": "Luanda",
+    "population": "38.5 Million",
+    "continent": "Africa",
+    "currency": "Angolan Kwanza",
+    "language": "Portuguese",
+    "fact": "Angola has abundant natural resources including oil and diamonds and features a long Atlantic coastline.",
+    "flag": "images/angola.jpg"
+  },
+  "antiguaandbarbuda": {
+    "name": "Antigua and Barbuda",
+    "capital": "Saint John's",
+    "population": "94 Thousand",
+    "continent": "North America",
+    "currency": "East Caribbean Dollar",
+    "language": "English",
+    "fact": "Antigua and Barbuda is famous for having 365 beaches—one for every day of the year.",
+    "flag": "images/antiguaandbarbuda.jpg"
+  },
+  "argentina": {
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "population": "47.1 Million",
+    "continent": "South America",
+    "currency": "Argentine Peso",
+    "language": "Spanish",
+    "fact": "Argentina is home to Patagonia, Iguazú Falls, and is renowned for tango, football, and beef.",
+    "flag": "images/argentina.jpg"
+  },
+  "armenia": {
+    "name": "Armenia",
+    "capital": "Yerevan",
+    "population": "2.99 Million",
+    "continent": "Asia",
+    "currency": "Armenian Dram",
+    "language": "Armenian",
+    "fact": "Armenia is one of the world's oldest Christian nations and is known for its ancient monasteries.",
+    "flag": "images/armenia.jpg"
+  },
+  "australia": {
+    "name": "Australia",
+    "capital": "Canberra",
+    "population": "27.4 Million",
+    "continent": "Oceania",
+    "currency": "Australian Dollar",
+    "language": "English",
+    "fact": "Australia is the only country that occupies an entire continent and is home to unique wildlife like kangaroos and koalas.",
+    "flag": "images/australia.jpg"
+  },
+  "austria": {
+    "name": "Austria",
+    "capital": "Vienna",
+    "population": "9.2 Million",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "German",
+    "fact": "Austria is famous for the Alps, classical music, and composers such as Mozart and Strauss.",
+    "flag": "images/austria.jpg"
+  },
+  "azerbaijan": {
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "population": "10.4 Million",
+    "continent": "Asia",
+    "currency": "Azerbaijani Manat",
+    "language": "Azerbaijani",
+    "fact": "Known as the 'Land of Fire,' Azerbaijan has natural gas vents that have burned for centuries.",
+    "flag": "images/azerbaijan.jpg"
+  },
+  "bahamas": {
+    "name": "Bahamas",
+    "capital": "Nassau",
+    "population": "416 Thousand",
+    "continent": "North America",
+    "currency": "Bahamian Dollar",
+    "language": "English",
+    "fact": "The Bahamas consists of over 700 islands and is famous for its crystal-clear turquoise waters.",
+    "flag": "images/bahamas.jpg"
+  },
+  "bahrain": {
+    "name": "Bahrain",
+    "capital": "Manama",
+    "population": "1.64 Million",
+    "continent": "Asia",
+    "currency": "Bahraini Dinar",
+    "language": "Arabic",
+    "fact": "Bahrain is an island nation in the Persian Gulf known for its financial sector and Formula One Grand Prix.",
+    "flag": "images/bahrain.jpg"
+  },
+  "bangladesh": {
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "population": "175 Million",
+    "continent": "Asia",
+    "currency": "Bangladeshi Taka",
+    "language": "Bengali",
+    "fact": "Bangladesh is one of the world's most densely populated countries and is home to the Sundarbans mangrove forest.",
+    "flag": "images/bangladesh.jpg"
+  },
+  "barbados": {
+    "name": "Barbados",
+    "capital": "Bridgetown",
+    "population": "282 Thousand",
+    "continent": "North America",
+    "currency": "Barbadian Dollar",
+    "language": "English",
+    "fact": "Barbados is known for beautiful beaches, coral reefs, and as the birthplace of Rihanna.",
+    "flag": "images/barbados.jpg"
+  },
+  "belarus": {
+    "name": "Belarus",
+    "capital": "Minsk",
+    "population": "9.1 Million",
+    "continent": "Europe",
+    "currency": "Belarusian Ruble",
+    "language": "Belarusian, Russian",
+    "fact": "Belarus is known for its forests, lakes, and well-preserved medieval castles.",
+    "flag": "images/belarus.jpg"
+  },
+  "belgium": {
+    "name": "Belgium",
+    "capital": "Brussels",
+    "population": "11.9 Million",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "Dutch, French, German",
+    "fact": "Belgium is famous for chocolate, waffles, beer, and as the headquarters of the European Union.",
+    "flag": "images/belgium.jpg"
+  },
+  "belize": {
+    "name": "Belize",
+    "capital": "Belmopan",
+    "population": "423 Thousand",
+    "continent": "North America",
+    "currency": "Belize Dollar",
+    "language": "English",
+    "fact": "Belize is home to the world's second-largest barrier reef and ancient Maya ruins.",
+    "flag": "images/belize.jpg"
+  },
+  "benin": {
+    "name": "Benin",
+    "capital": "Porto-Novo",
+    "population": "14.8 Million",
+    "continent": "Africa",
+    "currency": "West African CFA Franc",
+    "language": "French",
+    "fact": "Benin is considered the birthplace of the Vodun (Voodoo) religion.",
+    "flag": "images/benin.jpg"
+  },
+  "bhutan": {
+    "name": "Bhutan",
+    "capital": "Thimphu",
+    "population": "800 Thousand",
+    "continent": "Asia",
+    "currency": "Ngultrum",
+    "language": "Dzongkha",
+    "fact": "Bhutan measures success using Gross National Happiness instead of Gross Domestic Product alone.",
+    "flag": "images/bhutan.jpg"
+  },
+  "bolivia": {
+    "name": "Bolivia",
+    "capital": "Sucre",
+    "population": "12.6 Million",
+    "continent": "South America",
+    "currency": "Boliviano",
+    "language": "Spanish, Quechua, Aymara",
+    "fact": "Bolivia is home to Salar de Uyuni, the world's largest salt flat.",
+    "flag": "images/bolivia.jpg"
+  },
+  "bosniaandherzegovina": {
+    "name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "population": "3.2 Million",
+    "continent": "Europe",
+    "currency": "Bosnia and Herzegovina Convertible Mark",
+    "language": "Bosnian, Croatian, Serbian",
+    "fact": "Bosnia and Herzegovina is known for its diverse cultures, Ottoman architecture, and the historic Stari Most bridge.",
+    "flag": "images/bosniaandherzegovina.jpg"
+  },
+  "botswana": {
+    "name": "Botswana",
+    "capital": "Gaborone",
+    "population": "2.7 Million",
+    "continent": "Africa",
+    "currency": "Botswana Pula",
+    "language": "English, Tswana",
+    "fact": "Botswana is home to the Okavango Delta, one of the world's largest inland deltas.",
+    "flag": "images/botswana.jpg"
+  },
+  "brazil": {
+    "name": "Brazil",
+    "capital": "Brasília",
+    "population": "212.6 Million",
+    "continent": "South America",
+    "currency": "Brazilian Real",
+    "language": "Portuguese",
+    "fact": "Brazil is the largest country in South America and contains much of the Amazon Rainforest.",
+    "flag": "images/brazil.jpg"
+  },
+  "brunei": {
+    "name": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "population": "470 Thousand",
+    "continent": "Asia",
+    "currency": "Brunei Dollar",
+    "language": "Malay",
+    "fact": "Brunei is a wealthy nation known for its oil and natural gas reserves.",
+    "flag": "images/brunei.jpg"
+  },
+  "bulgaria": {
+    "name": "Bulgaria",
+    "capital": "Sofia",
+    "population": "6.4 Million",
+    "continent": "Europe",
+    "currency": "Bulgarian Lev",
+    "language": "Bulgarian",
+    "fact": "Bulgaria is one of Europe's oldest countries and is famous for its rose oil production.",
+    "flag": "images/bulgaria.jpg"
+  },
+  "burkinafaso": {
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "population": "24.1 Million",
+    "continent": "Africa",
+    "currency": "West African CFA Franc",
+    "language": "French",
+    "fact": "Burkina Faso is known for its vibrant traditional music and annual film festival FESPACO.",
+    "flag": "images/burkinafaso.jpg"
+  },
+  "burundi": {
+    "name": "Burundi",
+    "capital": "Gitega",
+    "population": "14.5 Million",
+    "continent": "Africa",
+    "currency": "Burundian Franc",
+    "language": "Kirundi, French, English",
+    "fact": "Burundi is one of Africa's smallest countries and is famous for its drumming traditions.",
+    "flag": "images/burundi.jpg"
+  },
+  "capoverde": {
+    "name": "Cabo Verde",
+    "capital": "Praia",
+    "population": "610 Thousand",
+    "continent": "Africa",
+    "currency": "Cape Verdean Escudo",
+    "language": "Portuguese",
+    "fact": "Cabo Verde is an island nation in the Atlantic Ocean known for volcanic landscapes and music.",
+    "flag": "images/caboverde.jpg"
+  },
+  "cambodia": {
+    "name": "Cambodia",
+    "capital": "Phnom Penh",
+    "population": "17.8 Million",
+    "continent": "Asia",
+    "currency": "Cambodian Riel",
+    "language": "Khmer",
+    "fact": "Cambodia is home to Angkor Wat, the world's largest religious monument.",
+    "flag": "images/cambodia.jpg"
+  },
+  "cameroon": {
+    "name": "Cameroon",
+    "capital": "Yaoundé",
+    "population": "30.1 Million",
+    "continent": "Africa",
+    "currency": "Central African CFA Franc",
+    "language": "English, French",
+    "fact": "Cameroon is often called 'Africa in miniature' because of its diverse geography and cultures.",
+    "flag": "images/cameroon.jpg"
+  },
+  "canada": {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "population": "41.8 Million",
+    "continent": "North America",
+    "currency": "Canadian Dollar",
+    "language": "English, French",
+    "fact": "Canada has the world's longest coastline and more lakes than any other country.",
+    "flag": "images/canada.jpg"
+  },
+  "centralafricanrepublic": {
+    "name": "Central African Republic",
+    "capital": "Bangui",
+    "population": "5.5 Million",
+    "continent": "Africa",
+    "currency": "Central African CFA Franc",
+    "language": "French, Sango",
+    "fact": "The Central African Republic is rich in diamonds, gold, and diverse wildlife.",
+    "flag": "images/car.jpg"
+  },
+  "chad": {
+    "name": "Chad",
+    "capital": "N'Djamena",
+    "population": "21.0 Million",
+    "continent": "Africa",
+    "currency": "Central African CFA Franc",
+    "language": "French, Arabic",
+    "fact": "Chad is named after Lake Chad, one of Africa's largest freshwater lakes.",
+    "flag": "images/chad.jpg"
+  },
+  "chile": {
+    "name": "Chile",
+    "capital": "Santiago",
+    "population": "20.1 Million",
+    "continent": "South America",
+    "currency": "Chilean Peso",
+    "language": "Spanish",
+    "fact": "Chile is one of the longest north-south countries in the world and is home to the Atacama Desert.",
+    "flag": "images/chile.jpg"
+  },
+  "china": {
+    "name": "China",
+    "capital": "Beijing",
+    "population": "1.41 Billion",
+    "continent": "Asia",
+    "currency": "Chinese Yuan",
+    "language": "Mandarin Chinese",
+    "fact": "China is home to the Great Wall, one of the world's most famous landmarks.",
+    "flag": "images/china.jpg"
+  },
+  "colombia": {
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "population": "53.4 Million",
+    "continent": "South America",
+    "currency": "Colombian Peso",
+    "language": "Spanish",
+    "fact": "Colombia is one of the world's largest producers of high-quality coffee and is rich in biodiversity.",
+    "flag": "images/colombia.jpg"
+  },
+  "comoros": {
+    "name": "Comoros",
+    "capital": "Moroni",
+    "population": "890 Thousand",
+    "continent": "Africa",
+    "currency": "Comorian Franc",
+    "language": "Comorian, French, Arabic",
+    "fact": "Comoros is an island nation in the Indian Ocean known for producing ylang-ylang essential oil.",
+    "flag": "images/comoros.jpg"
+  },
+  "congo": {
+    "name": "Congo",
+    "capital": "Brazzaville",
+    "population": "6.5 Million",
+    "continent": "Africa",
+    "currency": "Central African CFA Franc",
+    "language": "French",
+    "fact": "The Republic of the Congo is known for its tropical rainforests and diverse wildlife.",
+    "flag": "images/congo.jpg"
+  },
+  "costarica": {
+    "name": "Costa Rica",
+    "capital": "San José",
+    "population": "5.3 Million",
+    "continent": "North America",
+    "currency": "Costa Rican Colón",
+    "language": "Spanish",
+    "fact": "Costa Rica is famous for its biodiversity and produces nearly all of its electricity from renewable energy.",
+    "flag": "images/costarica.jpg"
+  },
+  "croatia": {
+    "name": "Croatia",
+    "capital": "Zagreb",
+    "population": "3.8 Million",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "Croatian",
+    "fact": "Croatia is known for its beautiful Adriatic coastline and the historic city of Dubrovnik.",
+    "flag": "images/croatia.jpg"
+  },
+  "cuba": {
+    "name": "Cuba",
+    "capital": "Havana",
+    "population": "11.1 Million",
+    "continent": "North America",
+    "currency": "Cuban Peso",
+    "language": "Spanish",
+    "fact": "Cuba is famous for classic vintage cars, cigars, salsa music, and colonial architecture.",
+    "flag": "images/cuba.jpg"
+  },
+  "cyprus": {
+    "name": "Cyprus",
+    "capital": "Nicosia",
+    "population": "1.37 Million",
+    "continent": "Asia",
+    "currency": "Euro",
+    "language": "Greek, Turkish",
+    "fact": "Cyprus is an island nation in the eastern Mediterranean with a rich blend of Greek and Turkish heritage.",
+    "flag": "images/cyprus.jpg"
+  },
+  "czechia": {
+    "name": "Czech Republic (Czechia)",
+    "capital": "Prague",
+    "population": "10.9 Million",
+    "continent": "Europe",
+    "currency": "Czech Koruna",
+    "language": "Czech",
+    "fact": "Czechia is known for its medieval towns, castles, and world-famous beer.",
+    "flag": "images/czechia.jpg"
+  },
+  "cotedivoire": {
+    "name": "Côte d'Ivoire",
+    "capital": "Yamoussoukro",
+    "population": "32.7 Million",
+    "continent": "Africa",
+    "currency": "West African CFA Franc",
+    "language": "French",
+    "fact": "Côte d'Ivoire is the world's largest producer of cocoa beans.",
+    "flag": "images/cotedivoire.jpg"
+  },
+  "democraticrepublicofthecongo": {
+    "name": "Democratic Republic of the Congo",
+    "capital": "Kinshasa",
+    "population": "112.8 Million",
+    "continent": "Africa",
+    "currency": "Congolese Franc",
+    "language": "French",
+    "fact": "The Democratic Republic of the Congo contains the second-largest rainforest in the world after the Amazon.",
+    "flag": "images/democraticrepublicofthecongo.jpg"
+  },
+  "denmark": {
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "population": "6.0 Million",
+    "continent": "Europe",
+    "currency": "Danish Krone",
+    "language": "Danish",
+    "fact": "Denmark is consistently ranked among the happiest countries in the world and is the home of LEGO.",
+    "flag": "images/denmark.jpg"
+  },
+  "djibouti": {
+    "name": "Djibouti",
+    "capital": "Djibouti",
+    "population": "1.2 Million",
+    "continent": "Africa",
+    "currency": "Djiboutian Franc",
+    "language": "French, Arabic",
+    "fact": "Djibouti is strategically located at the entrance to the Red Sea and is known for Lake Assal, one of the saltiest lakes on Earth.",
+    "flag": "images/djibouti.jpg"
+  },
+  "dominica": {
+    "name": "Dominica",
+    "capital": "Roseau",
+    "population": "67 Thousand",
+    "continent": "North America",
+    "currency": "East Caribbean Dollar",
+    "language": "English",
+    "fact": "Dominica is called the 'Nature Island of the Caribbean' because of its lush rainforests and hot springs.",
+    "flag": "images/dominica.jpg"
+  },
+  "dominicanrepublic": {
+    "name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "population": "11.5 Million",
+    "continent": "North America",
+    "currency": "Dominican Peso",
+    "language": "Spanish",
+    "fact": "The Dominican Republic occupies the eastern two-thirds of the island of Hispaniola and is famous for its beaches and resorts.",
+    "flag": "images/dominicanrepublic.jpg"
+  },
+  "ecuador": {
+    "name": "Ecuador",
+    "capital": "Quito",
+    "population": "18.4 Million",
+    "continent": "South America",
+    "currency": "United States Dollar",
+    "language": "Spanish",
+    "fact": "Ecuador is named after the Equator and is home to the Galápagos Islands.",
+    "flag": "images/ecuador.jpg"
+  },
+  "egypt": {
+    "name": "Egypt",
+    "capital": "Cairo",
+    "population": "118.4 Million",
+    "continent": "Africa",
+    "currency": "Egyptian Pound",
+    "language": "Arabic",
+    "fact": "Egypt is famous for the ancient pyramids, the Sphinx, and the Nile River, the world's longest river.",
+    "flag": "images/egypt.jpg"
+  },
+  "elsalvador": {
+    "name": "El Salvador",
+    "capital": "San Salvador",
+    "population": "6.4 Million",
+    "continent": "North America",
+    "currency": "United States Dollar",
+    "language": "Spanish",
+    "fact": "El Salvador is the smallest country in Central America and is known as the 'Land of Volcanoes.'",
+    "flag": "images/elsalvador.jpg"
+  },
+  "equatorialguinea": {
+    "name": "Equatorial Guinea",
+    "capital": "Malabo",
+    "population": "1.9 Million",
+    "continent": "Africa",
+    "currency": "Central African CFA Franc",
+    "language": "Spanish, French, Portuguese",
+    "fact": "Equatorial Guinea is the only sovereign African country where Spanish is an official language.",
+    "flag": "images/equatorialguinea.jpg"
+  },
+  "eritrea": {
+    "name": "Eritrea",
+    "capital": "Asmara",
+    "population": "3.7 Million",
+    "continent": "Africa",
+    "currency": "Eritrean Nakfa",
+    "language": "Tigrinya, Arabic, English",
+    "fact": "Eritrea has a long Red Sea coastline and is known for the well-preserved Italian architecture in Asmara.",
+    "flag": "images/eritrea.jpg"
+  },
+  "estonia": {
+    "name": "Estonia",
+    "capital": "Tallinn",
+    "population": "1.4 Million",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "Estonian",
+    "fact": "Estonia is one of the world's most digitally advanced countries, offering many government services online.",
+    "flag": "images/estonia.jpg"
+  },
+  "eswatini": {
+    "name": "Eswatini",
+    "capital": "Mbabane",
+    "population": "1.3 Million",
+    "continent": "Africa",
+    "currency": "Lilangeni",
+    "language": "Swazi, English",
+    "fact": "Eswatini, formerly known as Swaziland, is one of the few remaining absolute monarchies in the world.",
+    "flag": "images/eswatini.jpg"
+  },
+  "ethiopia": {
+    "name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "population": "135.5 Million",
+    "continent": "Africa",
+    "currency": "Ethiopian Birr",
+    "language": "Amharic",
+    "fact": "Ethiopia is widely regarded as the birthplace of coffee and has never been formally colonized.",
+    "flag": "images/ethiopia.jpg"
+  },
+  "fiji": {
+    "name": "Fiji",
+    "capital": "Suva",
+    "population": "930 Thousand",
+    "continent": "Oceania",
+    "currency": "Fijian Dollar",
+    "language": "English, Fijian, Fiji Hindi",
+    "fact": "Fiji is an island nation made up of more than 330 islands known for coral reefs and tropical beaches.",
+    "flag": "images/fiji.jpg"
+  },
+  "finland": {
+    "name": "Finland",
+    "capital": "Helsinki",
+    "population": "5.6 Million",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "Finnish, Swedish",
+    "fact": "Finland is known as the 'Land of a Thousand Lakes' and is famous for saunas and the Northern Lights.",
+    "flag": "images/finland.jpg"
+  },
+  "france": {
+    "name": "France",
+    "capital": "Paris",
+    "population": "68.6 Million",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "French",
+    "fact": "France is the world's most visited country and is home to the Eiffel Tower and the Louvre Museum.",
+    "flag": "images/france.jpg"
+  },
+  "gabon": {
+    "name": "Gabon",
+    "capital": "Libreville",
+    "population": "2.6 Million",
+    "continent": "Africa",
+    "currency": "Central African CFA Franc",
+    "language": "French",
+    "fact": "Gabon is covered by dense rainforests and is home to a rich variety of wildlife including forest elephants and gorillas.",
+    "flag": "images/gabon.jpg"
+  },
+  "gambia": {
+    "name": "Gambia",
+    "capital": "Banjul",
+    "population": "2.9 Million",
+    "continent": "Africa",
+    "currency": "Gambian Dalasi",
+    "language": "English",
+    "fact": "The Gambia is the smallest country on mainland Africa and follows the course of the Gambia River.",
+    "flag": "images/gambia.jpg"
+  },
+  "georgia": {
+    "name": "Georgia",
+    "capital": "Tbilisi",
+    "population": "3.7 Million",
+    "continent": "Asia",
+    "currency": "Georgian Lari",
+    "language": "Georgian",
+    "fact": "Georgia is considered one of the oldest wine-producing regions in the world, with over 8,000 years of winemaking history.",
+    "flag": "images/georgia.jpg"
+  },
+  "germany": {
+    "name": "Germany",
+    "capital": "Berlin",
+    "population": "84.7 Million",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "German",
+    "fact": "Germany is Europe's largest economy and is known for engineering, castles, and Oktoberfest.",
+    "flag": "images/germany.jpg"
+  },
+  "ghana": {
+    "name": "Ghana",
+    "capital": "Accra",
+    "population": "35.1 Million",
+    "continent": "Africa",
+    "currency": "Ghanaian Cedi",
+    "language": "English",
+    "fact": "Ghana was the first sub-Saharan African country to gain independence from colonial rule in 1957.",
+    "flag": "images/ghana.jpg"
+  },
+  "greece": {
+    "name": "Greece",
+    "capital": "Athens",
+    "population": "10.3 Million",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "Greek",
+    "fact": "Greece is regarded as the birthplace of democracy, philosophy, and the Olympic Games.",
+    "flag": "images/greece.jpg"
+  },
+  "grenada": {
+    "name": "Grenada",
+    "capital": "Saint George's",
+    "population": "127 Thousand",
+    "continent": "North America",
+    "currency": "East Caribbean Dollar",
+    "language": "English",
+    "fact": "Grenada is known as the 'Spice Isle' because it is one of the world's leading producers of nutmeg.",
+    "flag": "images/grenada.jpg"
+  },
+  "guatemala": {
+    "name": "Guatemala",
+    "capital": "Guatemala City",
+    "population": "18.5 Million",
+    "continent": "North America",
+    "currency": "Guatemalan Quetzal",
+    "language": "Spanish",
+    "fact": "Guatemala is home to impressive Mayan ruins, including the ancient city of Tikal.",
+    "flag": "images/guatemala.jpg"
+  },
+  "guinea": {
+    "name": "Guinea",
+    "capital": "Conakry",
+    "population": "15.1 Million",
+    "continent": "Africa",
+    "currency": "Guinean Franc",
+    "language": "French",
+    "fact": "Guinea has some of the world's largest reserves of bauxite, the primary ore used to produce aluminum.",
+    "flag": "images/guinea.jpg"
+  },
+  "guinea-bissau": {
+    "name": "Guinea-Bissau",
+    "capital": "Bissau",
+    "population": "2.2 Million",
+    "continent": "Africa",
+    "currency": "West African CFA Franc",
+    "language": "Portuguese",
+    "fact": "Guinea-Bissau is known for the Bijagós Archipelago, a UNESCO Biosphere Reserve.",
+    "flag": "images/guineabissau.jpg"
+  },
+  "guyana": {
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "population": "840 Thousand",
+    "continent": "South America",
+    "currency": "Guyanese Dollar",
+    "language": "English",
+    "fact": "Guyana is the only English-speaking country in South America and is home to Kaieteur Falls.",
+    "flag": "images/guyana.jpg"
+  },
+  "haiti": {
+    "name": "Haiti",
+    "capital": "Port-au-Prince",
+    "population": "11.9 Million",
+    "continent": "North America",
+    "currency": "Haitian Gourde",
+    "language": "Haitian Creole, French",
+    "fact": "Haiti became the world's first independent Black republic in 1804.",
+    "flag": "images/haiti.jpg"
+  },
+  "honduras": {
+    "name": "Honduras",
+    "capital": "Tegucigalpa",
+    "population": "10.9 Million",
+    "continent": "North America",
+    "currency": "Honduran Lempira",
+    "language": "Spanish",
+    "fact": "Honduras is home to the ancient Mayan archaeological site of Copán.",
+    "flag": "images/honduras.jpg"
+  },
+  "hungary": {
+    "name": "Hungary",
+    "capital": "Budapest",
+    "population": "9.6 Million",
+    "continent": "Europe",
+    "currency": "Hungarian Forint",
+    "language": "Hungarian",
+    "fact": "Hungary is famous for its thermal baths, paprika, and the Danube River.",
+    "flag": "images/hungary.jpg"
+  },
+  "iceland": {
+    "name": "Iceland",
+    "capital": "Reykjavík",
+    "population": "400 Thousand",
+    "continent": "Europe",
+    "currency": "Icelandic Króna",
+    "language": "Icelandic",
+    "fact": "Iceland is known for volcanoes, glaciers, geysers, and the spectacular Northern Lights.",
+    "flag": "images/iceland.jpg"
+  },
+  "india": {
+    "name": "India",
+    "capital": "New Delhi",
+    "population": "1.43 Billion",
+    "continent": "Asia",
+    "currency": "Indian Rupee",
+    "language": "Hindi, English",
+    "fact": "India is the world's most populous country and is home to the iconic Taj Mahal.",
+    "flag": "images/india.jpg"
+  },
+  "indonesia": {
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "population": "286 Million",
+    "continent": "Asia",
+    "currency": "Indonesian Rupiah",
+    "language": "Indonesian",
+    "fact": "Indonesia is the world's largest archipelago, consisting of more than 17,000 islands.",
+    "flag": "images/indonesia.jpg"
+  },
+  "iran": {
+    "name": "Iran",
+    "capital": "Tehran",
+    "population": "92.4 Million",
+    "continent": "Asia",
+    "currency": "Iranian Rial",
+    "language": "Persian",
+    "fact": "Iran is one of the world's oldest civilizations, with a history spanning thousands of years.",
+    "flag": "images/iran.jpg"
+  },
+  "iraq": {
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "population": "47.0 Million",
+    "continent": "Asia",
+    "currency": "Iraqi Dinar",
+    "language": "Arabic, Kurdish",
+    "fact": "Iraq is home to ancient Mesopotamia, often called the 'Cradle of Civilization.'",
+    "flag": "images/iraq.jpg"
+  },
+  "ireland": {
+    "name": "Ireland",
+    "capital": "Dublin",
+    "population": "5.4 Million",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "Irish, English",
+    "fact": "Ireland is known as the Emerald Isle because of its lush green landscapes.",
+    "flag": "images/ireland.jpg"
+  },
+  "israel": {
+    "name": "Israel",
+    "capital": "Jerusalem",
+    "population": "10.1 Million",
+    "continent": "Asia",
+    "currency": "Israeli New Shekel",
+    "language": "Hebrew, Arabic",
+    "fact": "Israel is home to the Dead Sea, the lowest land point on Earth.",
+    "flag": "images/israel.jpg"
+  },
+  "italy": {
+    "name": "Italy",
+    "capital": "Rome",
+    "population": "58.9 Million",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "Italian",
+    "fact": "Italy is famous for its rich history, Roman landmarks, Renaissance art, pizza, and pasta.",
+    "flag": "images/italy.jpg"
+  },
+  "jamaica": {
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "population": "2.84 Million",
+    "continent": "North America",
+    "currency": "Jamaican Dollar",
+    "language": "English",
+    "fact": "Jamaica is the birthplace of reggae music and legendary sprinter Usain Bolt.",
+    "flag": "images/jamaica.jpg"
+  },
+  "japan": {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": "123.2 Million",
+    "continent": "Asia",
+    "currency": "Japanese Yen",
+    "language": "Japanese",
+    "fact": "Japan is an island nation famous for Mount Fuji, cherry blossoms, and advanced technology.",
+    "flag": "images/japan.jpg"
+  },
+  "jordan": {
+    "name": "Jordan",
+    "capital": "Amman",
+    "population": "11.6 Million",
+    "continent": "Asia",
+    "currency": "Jordanian Dinar",
+    "language": "Arabic",
+    "fact": "Jordan is home to Petra, one of the New Seven Wonders of the World.",
+    "flag": "images/jordan.jpg"
+  },
+  "kazakhstan": {
+    "name": "Kazakhstan",
+    "capital": "Astana",
+    "population": "20.5 Million",
+    "continent": "Asia",
+    "currency": "Kazakhstani Tenge",
+    "language": "Kazakh, Russian",
+    "fact": "Kazakhstan is the world's largest landlocked country and is known for its vast steppes.",
+    "flag": "images/kazakhstan.jpg"
+  },
+  "kenya": {
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "population": "57.6 Million",
+    "continent": "Africa",
+    "currency": "Kenyan Shilling",
+    "language": "Swahili, English",
+    "fact": "Kenya is famous for its wildlife safaris and the Great Migration in the Maasai Mara.",
+    "flag": "images/kenya.jpg"
+  },
+  "kiribati": {
+    "name": "Kiribati",
+    "capital": "Tarawa",
+    "population": "136 Thousand",
+    "continent": "Oceania",
+    "currency": "Australian Dollar",
+    "language": "Gilbertese, English",
+    "fact": "Kiribati is one of the first countries in the world to welcome each new day due to its location near the International Date Line.",
+    "flag": "images/kiribati.jpg"
+  },
+  "kuwait": {
+    "name": "Kuwait",
+    "capital": "Kuwait City",
+    "population": "5.1 Million",
+    "continent": "Asia",
+    "currency": "Kuwaiti Dinar",
+    "language": "Arabic",
+    "fact": "Kuwait has one of the world's strongest currencies and large petroleum reserves.",
+    "flag": "images/kuwait.jpg"
+  },
+  "kyrgyzstan": {
+    "name": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "population": "7.3 Million",
+    "continent": "Asia",
+    "currency": "Kyrgyzstani Som",
+    "language": "Kyrgyz, Russian",
+    "fact": "Kyrgyzstan is known for its dramatic mountain scenery and nomadic traditions.",
+    "flag": "images/kyrgyzstan.jpg"
+  },
+  "laos": {
+    "name": "Laos",
+    "capital": "Vientiane",
+    "population": "7.9 Million",
+    "continent": "Asia",
+    "currency": "Lao Kip",
+    "language": "Lao",
+    "fact": "Laos is the only landlocked country in Southeast Asia and is famous for the Mekong River.",
+    "flag": "images/laos.jpg"
+  },
+  "latvia": {
+    "name": "Latvia",
+    "capital": "Riga",
+    "population": "1.9 Million",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "Latvian",
+    "fact": "Latvia is known for its extensive forests, medieval architecture, and Art Nouveau buildings.",
+    "flag": "images/latvia.jpg"
+  },
+  "lebanon": {
+    "name": "Lebanon",
+    "capital": "Beirut",
+    "population": "5.8 Million",
+    "continent": "Asia",
+    "currency": "Lebanese Pound",
+    "language": "Arabic",
+    "fact": "Lebanon is home to ancient Phoenician cities and the famous Cedars of Lebanon.",
+    "flag": "images/lebanon.jpg"
+  },
+  "lesotho": {
+    "name": "Lesotho",
+    "capital": "Maseru",
+    "population": "2.4 Million",
+    "continent": "Africa",
+    "currency": "Lesotho Loti",
+    "language": "Sesotho, English",
+    "fact": "Lesotho is the only independent country entirely above 1,000 meters in elevation.",
+    "flag": "images/lesotho.jpg"
+  },
+  "liberia": {
+    "name": "Liberia",
+    "capital": "Monrovia",
+    "population": "5.7 Million",
+    "continent": "Africa",
+    "currency": "Liberian Dollar",
+    "language": "English",
+    "fact": "Liberia was founded by formerly enslaved African Americans and is Africa's oldest republic.",
+    "flag": "images/liberia.jpg"
+  },
+  "libya": {
+    "name": "Libya",
+    "capital": "Tripoli",
+    "population": "7.5 Million",
+    "continent": "Africa",
+    "currency": "Libyan Dinar",
+    "language": "Arabic",
+    "fact": "Over 90% of Libya is covered by the Sahara Desert.",
+    "flag": "images/libya.jpg"
+  },
+  "liechtenstein": {
+    "name": "Liechtenstein",
+    "capital": "Vaduz",
+    "population": "40 Thousand",
+    "continent": "Europe",
+    "currency": "Swiss Franc",
+    "language": "German",
+    "fact": "Liechtenstein is one of the world's smallest countries and has no airport.",
+    "flag": "images/liechtenstein.jpg"
+  },
+  "lithuania": {
+    "name": "Lithuania",
+    "capital": "Vilnius",
+    "population": "2.9 Million",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "Lithuanian",
+    "fact": "Lithuania was the first Soviet republic to declare independence in 1990.",
+    "flag": "images/lithuania.jpg"
+  },
+  "luxembourg": {
+    "name": "Luxembourg",
+    "capital": "Luxembourg",
+    "population": "680 Thousand",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "Luxembourgish, French, German",
+    "fact": "Luxembourg is one of the world's wealthiest countries by GDP per capita.",
+    "flag": "images/luxembourg.jpg"
+  },
+  "madagascar": {
+    "name": "Madagascar",
+    "capital": "Antananarivo",
+    "population": "31.2 Million",
+    "continent": "Africa",
+    "currency": "Malagasy Ariary",
+    "language": "Malagasy, French",
+    "fact": "Madagascar is the world's fourth-largest island and is home to thousands of plant and animal species found nowhere else on Earth.",
+    "flag": "images/madagascar.jpg"
+  },
+  "malawi": {
+    "name": "Malawi",
+    "capital": "Lilongwe",
+    "population": "22.2 Million",
+    "continent": "Africa",
+    "currency": "Malawian Kwacha",
+    "language": "English, Chichewa",
+    "fact": "Malawi is known as the 'Warm Heart of Africa' because of the friendliness of its people.",
+    "flag": "images/malawi.jpg"
+  },
+  "malaysia": {
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "population": "35.9 Million",
+    "continent": "Asia",
+    "currency": "Malaysian Ringgit",
+    "language": "Malay",
+    "fact": "Malaysia is famous for its multicultural society, tropical rainforests, and the Petronas Twin Towers.",
+    "flag": "images/malaysia.jpg"
+  },
+  "maldives": {
+    "name": "Maldives",
+    "capital": "Malé",
+    "population": "530 Thousand",
+    "continent": "Asia",
+    "currency": "Maldivian Rufiyaa",
+    "language": "Dhivehi",
+    "fact": "The Maldives is the world's lowest-lying country, with an average elevation of about 1.5 meters above sea level.",
+    "flag": "images/maldives.jpg"
+  },
+  "mali": {
+    "name": "Mali",
+    "capital": "Bamako",
+    "population": "25.2 Million",
+    "continent": "Africa",
+    "currency": "West African CFA Franc",
+    "language": "French",
+    "fact": "Mali was once home to the wealthy Mali Empire and the legendary city of Timbuktu.",
+    "flag": "images/mali.jpg"
+  },
+  "malta": {
+    "name": "Malta",
+    "capital": "Valletta",
+    "population": "570 Thousand",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "Maltese, English",
+    "fact": "Malta is one of Europe's smallest countries and has a history dating back over 7,000 years.",
+    "flag": "images/malta.jpg"
+  },
+  "marshallislands": {
+    "name": "Marshall Islands",
+    "capital": "Majuro",
+    "population": "39 Thousand",
+    "continent": "Oceania",
+    "currency": "United States Dollar",
+    "language": "Marshallese, English",
+    "fact": "The Marshall Islands consist of 29 coral atolls and over 1,000 individual islands.",
+    "flag": "images/marshallislands.jpg"
+  },
+  "mauritania": {
+    "name": "Mauritania",
+    "capital": "Nouakchott",
+    "population": "5.3 Million",
+    "continent": "Africa",
+    "currency": "Mauritanian Ouguiya",
+    "language": "Arabic",
+    "fact": "About 90% of Mauritania is covered by the Sahara Desert.",
+    "flag": "images/mauritania.jpg"
+  },
+  "mauritius": {
+    "name": "Mauritius",
+    "capital": "Port Louis",
+    "population": "1.3 Million",
+    "continent": "Africa",
+    "currency": "Mauritian Rupee",
+    "language": "English",
+    "fact": "Mauritius is famous for its coral reefs, lagoons, beaches, and as the former home of the extinct dodo bird.",
+    "flag": "images/mauritius.jpg"
+  },
+  "mexico": {
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "population": "131.9 Million",
+    "continent": "North America",
+    "currency": "Mexican Peso",
+    "language": "Spanish",
+    "fact": "Mexico is home to ancient civilizations such as the Maya and Aztecs and has the world's largest Spanish-speaking population.",
+    "flag": "images/mexico.jpg"
+  },
+  "micronesia": {
+    "name": "Micronesia",
+    "capital": "Palikir",
+    "population": "115 Thousand",
+    "continent": "Oceania",
+    "currency": "United States Dollar",
+    "language": "English",
+    "fact": "The Federated States of Micronesia consists of more than 600 islands scattered across the western Pacific Ocean.",
+    "flag": "images/micronesia.jpg"
+  },
+  "moldova": {
+    "name": "Moldova",
+    "capital": "Chișinău",
+    "population": "2.4 Million",
+    "continent": "Europe",
+    "currency": "Moldovan Leu",
+    "language": "Romanian",
+    "fact": "Moldova is known for having one of the world's largest underground wine cellars.",
+    "flag": "images/moldova.jpg"
+  },
+  "monaco": {
+    "name": "Monaco",
+    "capital": "Monaco",
+    "population": "39 Thousand",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "French",
+    "fact": "Monaco is the world's second-smallest country and is famous for its luxury lifestyle and Formula One Grand Prix.",
+    "flag": "images/monaco.jpg"
+  },
+  "mongolia": {
+    "name": "Mongolia",
+    "capital": "Ulaanbaatar",
+    "population": "3.6 Million",
+    "continent": "Asia",
+    "currency": "Mongolian Tögrög",
+    "language": "Mongolian",
+    "fact": "Mongolia has one of the lowest population densities in the world and was once the center of Genghis Khan's empire.",
+    "flag": "images/mongolia.jpg"
+  },
+  "montenegro": {
+    "name": "Montenegro",
+    "capital": "Podgorica",
+    "population": "620 Thousand",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "Montenegrin",
+    "fact": "Montenegro is known for its stunning Adriatic coastline and the picturesque Bay of Kotor.",
+    "flag": "images/montenegro.jpg"
+  },
+  "morocco": {
+    "name": "Morocco",
+    "capital": "Rabat",
+    "population": "38.4 Million",
+    "continent": "Africa",
+    "currency": "Moroccan Dirham",
+    "language": "Arabic, Berber",
+    "fact": "Morocco is famous for its vibrant markets, the Atlas Mountains, and the Sahara Desert.",
+    "flag": "images/morocco.jpg"
+  },
+  "mozambique": {
+    "name": "Mozambique",
+    "capital": "Maputo",
+    "population": "35.6 Million",
+    "continent": "Africa",
+    "currency": "Mozambican Metical",
+    "language": "Portuguese",
+    "fact": "Mozambique has a coastline stretching over 2,400 kilometers along the Indian Ocean.",
+    "flag": "images/mozambique.jpg"
+  },
+  "myanmar": {
+    "name": "Myanmar",
+    "capital": "Naypyidaw",
+    "population": "54.9 Million",
+    "continent": "Asia",
+    "currency": "Myanmar Kyat",
+    "language": "Burmese",
+    "fact": "Myanmar is home to Bagan, an ancient city with thousands of Buddhist temples and pagodas.",
+    "flag": "images/myanmar.jpg"
+  },
+  "namibia": {
+    "name": "Namibia",
+    "capital": "Windhoek",
+    "population": "3.1 Million",
+    "continent": "Africa",
+    "currency": "Namibian Dollar",
+    "language": "English",
+    "fact": "Namibia is home to the Namib Desert, considered the world's oldest desert.",
+    "flag": "images/namibia.jpg"
+  },
+  "nauru": {
+    "name": "Nauru",
+    "capital": "Yaren (de facto)",
+    "population": "13 Thousand",
+    "continent": "Oceania",
+    "currency": "Australian Dollar",
+    "language": "Nauruan, English",
+    "fact": "Nauru is the world's third-smallest country by land area and has no official capital city.",
+    "flag": "images/nauru.jpg"
+  },
+  "nepal": {
+    "name": "Nepal",
+    "capital": "Kathmandu",
+    "population": "30.9 Million",
+    "continent": "Asia",
+    "currency": "Nepalese Rupee",
+    "language": "Nepali",
+    "fact": "Nepal is home to Mount Everest, the highest mountain on Earth.",
+    "flag": "images/nepal.jpg"
+  },
+  "netherlands": {
+    "name": "Netherlands",
+    "capital": "Amsterdam",
+    "population": "18.2 Million",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "Dutch",
+    "fact": "The Netherlands is famous for its windmills, tulips, canals, and extensive cycling culture.",
+    "flag": "images/netherlands.jpg"
+  },
+  "newzealand": {
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "population": "5.4 Million",
+    "continent": "Oceania",
+    "currency": "New Zealand Dollar",
+    "language": "English, Māori",
+    "fact": "New Zealand is known for its breathtaking landscapes and as the filming location of The Lord of the Rings trilogy.",
+    "flag": "images/newzealand.jpg"
+  },
+  "nicaragua": {
+    "name": "Nicaragua",
+    "capital": "Managua",
+    "population": "7.1 Million",
+    "continent": "North America",
+    "currency": "Nicaraguan Córdoba",
+    "language": "Spanish",
+    "fact": "Nicaragua is home to Lake Nicaragua, the largest lake in Central America.",
+    "flag": "images/nicaragua.jpg"
+  },
+  "niger": {
+    "name": "Niger",
+    "capital": "Niamey",
+    "population": "27.9 Million",
+    "continent": "Africa",
+    "currency": "West African CFA Franc",
+    "language": "French",
+    "fact": "Much of Niger is covered by the Sahara Desert, making it one of the hottest countries in the world.",
+    "flag": "images/niger.jpg"
+  },
+  "nigeria": {
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "population": "238.3 Million",
+    "continent": "Africa",
+    "currency": "Nigerian Naira",
+    "language": "English",
+    "fact": "Nigeria is Africa's most populous country and is known for its vibrant music and film industries.",
+    "flag": "images/nigeria.jpg"
+  },
+  "northkorea": {
+    "name": "North Korea",
+    "capital": "Pyongyang",
+    "population": "26.6 Million",
+    "continent": "Asia",
+    "currency": "North Korean Won",
+    "language": "Korean",
+    "fact": "North Korea officially calls itself the Democratic People's Republic of Korea (DPRK).",
+    "flag": "images/northkorea.jpg"
+  },
+  "northmacedonia": {
+    "name": "North Macedonia",
+    "capital": "Skopje",
+    "population": "1.8 Million",
+    "continent": "Europe",
+    "currency": "Macedonian Denar",
+    "language": "Macedonian",
+    "fact": "North Macedonia changed its official name from Macedonia in 2019 after an agreement with Greece.",
+    "flag": "images/northmacedonia.jpg"
+  },
+  "norway": {
+    "name": "Norway",
+    "capital": "Oslo",
+    "population": "5.6 Million",
+    "continent": "Europe",
+    "currency": "Norwegian Krone",
+    "language": "Norwegian",
+    "fact": "Norway is famous for its spectacular fjords and is one of the world's leading producers of salmon.",
+    "flag": "images/norway.jpg"
+  },
+  "oman": {
+    "name": "Oman",
+    "capital": "Muscat",
+    "population": "5.5 Million",
+    "continent": "Asia",
+    "currency": "Omani Rial",
+    "language": "Arabic",
+    "fact": "Oman is known for its ancient forts, deserts, and beautiful coastline along the Arabian Sea.",
+    "flag": "images/oman.jpg"
+  },
+  "pakistan": {
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "population": "255.2 Million",
+    "continent": "Asia",
+    "currency": "Pakistani Rupee",
+    "language": "Urdu, English",
+    "fact": "Pakistan is home to K2, the world's second-highest mountain.",
+    "flag": "images/pakistan.jpg"
+  },
+  "palau": {
+    "name": "Palau",
+    "capital": "Ngerulmud",
+    "population": "18 Thousand",
+    "continent": "Oceania",
+    "currency": "United States Dollar",
+    "language": "Palauan, English",
+    "fact": "Palau is famous for its Rock Islands and Jellyfish Lake.",
+    "flag": "images/palau.jpg"
+  },
+  "palestine": {
+    "name": "Palestine",
+    "capital": "East Jerusalem (claimed), Ramallah (administrative)",
+    "population": "5.6 Million",
+    "continent": "Asia",
+    "currency": "Israeli New Shekel, Jordanian Dinar",
+    "language": "Arabic",
+    "fact": "Palestine consists of the West Bank and the Gaza Strip and has a rich cultural and historical heritage.",
+    "flag": "images/palestine.jpg"
+  },
+  "panama": {
+    "name": "Panama",
+    "capital": "Panama City",
+    "population": "4.6 Million",
+    "continent": "North America",
+    "currency": "Balboa, United States Dollar",
+    "language": "Spanish",
+    "fact": "Panama is home to the Panama Canal, one of the world's most important shipping routes.",
+    "flag": "images/panama.jpg"
+  },
+  "papuanewguinea": {
+    "name": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "population": "10.8 Million",
+    "continent": "Oceania",
+    "currency": "Papua New Guinean Kina",
+    "language": "English, Tok Pisin, Hiri Motu",
+    "fact": "Papua New Guinea has more than 800 indigenous languages, the highest linguistic diversity in the world.",
+    "flag": "images/papuanewguinea.jpg"
+  },
+  "paraguay": {
+    "name": "Paraguay",
+    "capital": "Asunción",
+    "population": "7.0 Million",
+    "continent": "South America",
+    "currency": "Paraguayan Guaraní",
+    "language": "Spanish, Guaraní",
+    "fact": "Paraguay is one of the few countries where most people are bilingual in Spanish and an indigenous language.",
+    "flag": "images/paraguay.jpg"
+  },
+  "peru": {
+    "name": "Peru",
+    "capital": "Lima",
+    "population": "34.8 Million",
+    "continent": "South America",
+    "currency": "Peruvian Sol",
+    "language": "Spanish, Quechua, Aymara",
+    "fact": "Peru is home to Machu Picchu, the famous Inca citadel high in the Andes Mountains.",
+    "flag": "images/peru.jpg"
+  },
+  "philippines": {
+    "name": "Philippines",
+    "capital": "Manila",
+    "population": "116.8 Million",
+    "continent": "Asia",
+    "currency": "Philippine Peso",
+    "language": "Filipino, English",
+    "fact": "The Philippines is an archipelago of more than 7,600 islands known for its biodiversity and beautiful beaches.",
+    "flag": "images/philippines.jpg"
+  },
+  "poland": {
+    "name": "Poland",
+    "capital": "Warsaw",
+    "population": "36.5 Million",
+    "continent": "Europe",
+    "currency": "Polish Złoty",
+    "language": "Polish",
+    "fact": "Poland is the birthplace of astronomer Nicolaus Copernicus and composer Frédéric Chopin.",
+    "flag": "images/poland.jpg"
+  },
+  "portugal": {
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "population": "10.6 Million",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "Portuguese",
+    "fact": "Portugal is one of the world's oldest nations and is famous for explorers, port wine, and fado music.",
+    "flag": "images/portugal.jpg"
+  },
+  "qatar": {
+    "name": "Qatar",
+    "capital": "Doha",
+    "population": "3.1 Million",
+    "continent": "Asia",
+    "currency": "Qatari Riyal",
+    "language": "Arabic",
+    "fact": "Qatar hosted the 2022 FIFA World Cup, the first World Cup held in the Middle East.",
+    "flag": "images/qatar.jpg"
+  },
+  "romania": {
+    "name": "Romania",
+    "capital": "Bucharest",
+    "population": "18.9 Million",
+    "continent": "Europe",
+    "currency": "Romanian Leu",
+    "language": "Romanian",
+    "fact": "Romania is home to Transylvania, a region famously associated with the Dracula legend.",
+    "flag": "images/romania.jpg"
+  },
+  "russia": {
+    "name": "Russia",
+    "capital": "Moscow",
+    "population": "143.8 Million",
+    "continent": "Europe",
+    "currency": "Russian Ruble",
+    "language": "Russian",
+    "fact": "Russia is the largest country in the world, spanning 11 time zones across Europe and Asia.",
+    "flag": "images/russia.jpg"
+  },
+  "rwanda": {
+    "name": "Rwanda",
+    "capital": "Kigali",
+    "population": "14.6 Million",
+    "continent": "Africa",
+    "currency": "Rwandan Franc",
+    "language": "Kinyarwanda, English, French, Swahili",
+    "fact": "Rwanda is known as the 'Land of a Thousand Hills' and is famous for its mountain gorillas.",
+    "flag": "images/rwanda.jpg"
+  },
+  "saintkittsandnevis": {
+    "name": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "population": "47 Thousand",
+    "continent": "North America",
+    "currency": "East Caribbean Dollar",
+    "language": "English",
+    "fact": "Saint Kitts and Nevis is the smallest sovereign state in the Western Hemisphere by both area and population.",
+    "flag": "images/stkittsandnevis.jpg"
+  },
+  "saintlucia": {
+    "name": "Saint Lucia",
+    "capital": "Castries",
+    "population": "180 Thousand",
+    "continent": "North America",
+    "currency": "East Caribbean Dollar",
+    "language": "English",
+    "fact": "Saint Lucia is famous for the Pitons, two volcanic peaks recognized as a UNESCO World Heritage Site.",
+    "flag": "images/stlucia.jpg"
+  },
+  "stvincentandthegrenadines": {
+    "name": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "population": "101 Thousand",
+    "continent": "North America",
+    "currency": "East Caribbean Dollar",
+    "language": "English",
+    "fact": "Saint Vincent and the Grenadines consists of the main island of Saint Vincent and a chain of smaller islands.",
+    "flag": "images/stvincent.jpg"
+  },
+  "samoa": {
+    "name": "Samoa",
+    "capital": "Apia",
+    "population": "225 Thousand",
+    "continent": "Oceania",
+    "currency": "Samoan Tala",
+    "language": "Samoan, English",
+    "fact": "Samoa is known for its rich Polynesian culture and stunning tropical scenery.",
+    "flag": "images/samoa.jpg"
+  },
+  "sanmarino": {
+    "name": "San Marino",
+    "capital": "San Marino",
+    "population": "34 Thousand",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "Italian",
+    "fact": "San Marino is one of the world's oldest republics, founded in 301 AD.",
+    "flag": "images/sanmarino.jpg"
+  },
+  "saotomeandprincipe": {
+    "name": "Sao Tome and Principe",
+    "capital": "São Tomé",
+    "population": "240 Thousand",
+    "continent": "Africa",
+    "currency": "São Tomé and Príncipe Dobra",
+    "language": "Portuguese",
+    "fact": "São Tomé and Príncipe is Africa's second-smallest country and is known for cocoa production.",
+    "flag": "images/saotomeandprincipe.jpg"
+  },
+  "saudiarabia": {
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "population": "38.5 Million",
+    "continent": "Asia",
+    "currency": "Saudi Riyal",
+    "language": "Arabic",
+    "fact": "Saudi Arabia is home to Islam's two holiest cities, Mecca and Medina.",
+    "flag": "images/saudiarabia.jpg"
+  },
+  "senegal": {
+    "name": "Senegal",
+    "capital": "Dakar",
+    "population": "19.3 Million",
+    "continent": "Africa",
+    "currency": "West African CFA Franc",
+    "language": "French",
+    "fact": "Senegal is known for its vibrant music, culture, and the historic Gorée Island.",
+    "flag": "images/senegal.jpg"
+  },
+  "serbia": {
+    "name": "Serbia",
+    "capital": "Belgrade",
+    "population": "6.6 Million",
+    "continent": "Europe",
+    "currency": "Serbian Dinar",
+    "language": "Serbian",
+    "fact": "Serbia is located at the crossroads of Central and Southeast Europe and has a rich medieval history.",
+    "flag": "images/serbia.jpg"
+  },
+  "seychelles": {
+    "name": "Seychelles",
+    "capital": "Victoria",
+    "population": "131 Thousand",
+    "continent": "Africa",
+    "currency": "Seychellois Rupee",
+    "language": "Seychellois Creole, English, French",
+    "fact": "Seychelles is an island nation famous for its white-sand beaches and giant tortoises.",
+    "flag": "images/seychelles.jpg"
+  },
+  "sierraleone": {
+    "name": "Sierra Leone",
+    "capital": "Freetown",
+    "population": "9.0 Million",
+    "continent": "Africa",
+    "currency": "Sierra Leonean Leone",
+    "language": "English",
+    "fact": "Sierra Leone is known for its beautiful Atlantic beaches and diamond resources.",
+    "flag": "images/sierraleone.jpg"
+  },
+  "singapore": {
+    "name": "Singapore",
+    "capital": "Singapore",
+    "population": "6.1 Million",
+    "continent": "Asia",
+    "currency": "Singapore Dollar",
+    "language": "English, Malay, Mandarin, Tamil",
+    "fact": "Singapore is one of the world's leading financial centers and is known for its cleanliness and modern skyline.",
+    "flag": "images/singapore.jpg"
+  },
+  "slovakia": {
+    "name": "Slovakia",
+    "capital": "Bratislava",
+    "population": "5.4 Million",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "Slovak",
+    "fact": "Slovakia has more castles per capita than almost any other country in the world.",
+    "flag": "images/slovakia.jpg"
+  },
+  "slovenia": {
+    "name": "Slovenia",
+    "capital": "Ljubljana",
+    "population": "2.1 Million",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "Slovene",
+    "fact": "Slovenia is famous for Lake Bled and its extensive cave systems.",
+    "flag": "images/slovenia.jpg"
+  },
+  "solomonislands": {
+    "name": "Solomon Islands",
+    "capital": "Honiara",
+    "population": "850 Thousand",
+    "continent": "Oceania",
+    "currency": "Solomon Islands Dollar",
+    "language": "English",
+    "fact": "The Solomon Islands consist of nearly 1,000 islands in the South Pacific Ocean.",
+    "flag": "images/solomonislands.jpg"
+  },
+  "somalia": {
+    "name": "Somalia",
+    "capital": "Mogadishu",
+    "population": "19.6 Million",
+    "continent": "Africa",
+    "currency": "Somali Shilling",
+    "language": "Somali, Arabic",
+    "fact": "Somalia has Africa's longest coastline along the Indian Ocean.",
+    "flag": "images/somalia.jpg"
+  },
+  "southafrica": {
+    "name": "South Africa",
+    "capital": "Pretoria (executive), Cape Town (legislative), Bloemfontein (judicial)",
+    "population": "64.7 Million",
+    "continent": "Africa",
+    "currency": "South African Rand",
+    "language": "Zulu, Xhosa, Afrikaans, English and others",
+    "fact": "South Africa is the only country in the world with three capital cities.",
+    "flag": "images/southafrica.jpg"
+  },
+  "southkorea": {
+    "name": "South Korea",
+    "capital": "Seoul",
+    "population": "51.7 Million",
+    "continent": "Asia",
+    "currency": "South Korean Won",
+    "language": "Korean",
+    "fact": "South Korea is known for K-pop, advanced technology, and companies like Samsung and Hyundai.",
+    "flag": "images/southkorea.jpg"
+  },
+  "southsudan": {
+    "name": "South Sudan",
+    "capital": "Juba",
+    "population": "12.2 Million",
+    "continent": "Africa",
+    "currency": "South Sudanese Pound",
+    "language": "English",
+    "fact": "South Sudan became the world's newest independent country in 2011.",
+    "flag": "images/southsudan.jpg"
+  },
+  "spain": {
+    "name": "Spain",
+    "capital": "Madrid",
+    "population": "49.1 Million",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "Spanish",
+    "fact": "Spain is famous for flamenco, football, and landmarks like the Sagrada Família.",
+    "flag": "images/spain.jpg"
+  },
+  "srilanka": {
+    "name": "Sri Lanka",
+    "capital": "Sri Jayawardenepura Kotte",
+    "population": "22.0 Million",
+    "continent": "Asia",
+    "currency": "Sri Lankan Rupee",
+    "language": "Sinhala, Tamil",
+    "fact": "Sri Lanka is known for its tea plantations, ancient temples, and diverse wildlife.",
+    "flag": "images/srilanka.jpg"
+  },
+  "sudan": {
+    "name": "Sudan",
+    "capital": "Khartoum",
+    "population": "51.7 Million",
+    "continent": "Africa",
+    "currency": "Sudanese Pound",
+    "language": "Arabic, English",
+    "fact": "Sudan has more pyramids than Egypt, built by the ancient Kingdom of Kush.",
+    "flag": "images/sudan.jpg"
+  },
+  "suriname": {
+    "name": "Suriname",
+    "capital": "Paramaribo",
+    "population": "650 Thousand",
+    "continent": "South America",
+    "currency": "Surinamese Dollar",
+    "language": "Dutch",
+    "fact": "Suriname is the smallest independent country in South America and is largely covered by rainforest.",
+    "flag": "images/suriname.jpg"
+  },
+  "sweden": {
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "population": "10.6 Million",
+    "continent": "Europe",
+    "currency": "Swedish Krona",
+    "language": "Swedish",
+    "fact": "Sweden is known for innovation, IKEA, Volvo, and the Nobel Prize.",
+    "flag": "images/sweden.jpg"
+  },
+  "switzerland": {
+    "name": "Switzerland",
+    "capital": "Bern",
+    "population": "9.1 Million",
+    "continent": "Europe",
+    "currency": "Swiss Franc",
+    "language": "German, French, Italian, Romansh",
+    "fact": "Switzerland is famous for the Alps, chocolate, watches, and its long-standing neutrality.",
+    "flag": "images/switzerland.jpg"
+  },
+  "syria": {
+    "name": "Syria",
+    "capital": "Damascus",
+    "population": "25.6 Million",
+    "continent": "Asia",
+    "currency": "Syrian Pound",
+    "language": "Arabic",
+    "fact": "Damascus is considered one of the oldest continuously inhabited cities in the world.",
+    "flag": "images/syria.jpg"
+  },
+  "tajikistan": {
+    "name": "Tajikistan",
+    "capital": "Dushanbe",
+    "population": "10.7 Million",
+    "continent": "Asia",
+    "currency": "Tajikistani Somoni",
+    "language": "Tajik",
+    "fact": "Over 90% of Tajikistan is covered by mountains, making it one of the most mountainous countries in the world.",
+    "flag": "images/tajikistan.jpg"
+  },
+  "tanzania": {
+    "name": "Tanzania",
+    "capital": "Dodoma",
+    "population": "69.4 Million",
+    "continent": "Africa",
+    "currency": "Tanzanian Shilling",
+    "language": "Swahili, English",
+    "fact": "Tanzania is home to Mount Kilimanjaro, Africa's highest mountain, and Serengeti National Park.",
+    "flag": "images/tanzania.jpg"
+  },
+  "thailand": {
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "population": "71.8 Million",
+    "continent": "Asia",
+    "currency": "Thai Baht",
+    "language": "Thai",
+    "fact": "Thailand is the only Southeast Asian country never colonized by a European power.",
+    "flag": "images/thailand.jpg"
+  },
+  "timor-leste": {
+    "name": "Timor-Leste",
+    "capital": "Dili",
+    "population": "1.4 Million",
+    "continent": "Asia",
+    "currency": "United States Dollar",
+    "language": "Tetum, Portuguese",
+    "fact": "Timor-Leste became an independent nation in 2002 after gaining independence from Indonesia.",
+    "flag": "images/timorleste.jpg"
+  },
+  "togo": {
+    "name": "Togo",
+    "capital": "Lomé",
+    "population": "9.8 Million",
+    "continent": "Africa",
+    "currency": "West African CFA Franc",
+    "language": "French",
+    "fact": "Togo is a narrow West African country known for its palm-lined beaches and vibrant markets.",
+    "flag": "images/togo.jpg"
+  },
+  "tonga": {
+    "name": "Tonga",
+    "capital": "Nukuʻalofa",
+    "population": "104 Thousand",
+    "continent": "Oceania",
+    "currency": "Tongan Paʻanga",
+    "language": "Tongan, English",
+    "fact": "Tonga is the only Pacific island nation that has never been fully colonized.",
+    "flag": "images/tonga.jpg"
+  },
+  "trinidadandtobago": {
+    "name": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "population": "1.5 Million",
+    "continent": "North America",
+    "currency": "Trinidad and Tobago Dollar",
+    "language": "English",
+    "fact": "Trinidad and Tobago is the birthplace of the steelpan musical instrument.",
+    "flag": "images/trinidadandtobago.jpg"
+  },
+  "tunisia": {
+    "name": "Tunisia",
+    "capital": "Tunis",
+    "population": "12.5 Million",
+    "continent": "Africa",
+    "currency": "Tunisian Dinar",
+    "language": "Arabic",
+    "fact": "Tunisia is home to the ancient city of Carthage and served as a filming location for Star Wars.",
+    "flag": "images/tunisia.jpg"
+  },
+  "turkey": {
+    "name": "Turkey",
+    "capital": "Ankara",
+    "population": "87.7 Million",
+    "continent": "Asia",
+    "currency": "Turkish Lira",
+    "language": "Turkish",
+    "fact": "Turkey spans two continents, Europe and Asia, separated by the Bosporus Strait.",
+    "flag": "images/turkey.jpg"
+  },
+  "turkmenistan": {
+    "name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "population": "7.5 Million",
+    "continent": "Asia",
+    "currency": "Turkmenistani Manat",
+    "language": "Turkmen",
+    "fact": "Turkmenistan is famous for the 'Door to Hell,' a natural gas crater that has burned for decades.",
+    "flag": "images/turkmenistan.jpg"
+  },
+  "tuvalu": {
+    "name": "Tuvalu",
+    "capital": "Funafuti",
+    "population": "11 Thousand",
+    "continent": "Oceania",
+    "currency": "Australian Dollar",
+    "language": "Tuvaluan, English",
+    "fact": "Tuvalu is one of the world's smallest and lowest-lying countries, making it vulnerable to rising sea levels.",
+    "flag": "images/tuvalu.jpg"
+  },
+  "uganda": {
+    "name": "Uganda",
+    "capital": "Kampala",
+    "population": "51.4 Million",
+    "continent": "Africa",
+    "currency": "Ugandan Shilling",
+    "language": "English, Swahili",
+    "fact": "Uganda is home to half of the world's remaining mountain gorillas.",
+    "flag": "images/uganda.jpg"
+  },
+  "ukraine": {
+    "name": "Ukraine",
+    "capital": "Kyiv",
+    "population": "36.7 Million",
+    "continent": "Europe",
+    "currency": "Ukrainian Hryvnia",
+    "language": "Ukrainian",
+    "fact": "Ukraine is one of Europe's largest countries and is often called the 'Breadbasket of Europe' because of its fertile farmland.",
+    "flag": "images/ukraine.jpg"
+  },
+  "unitedarabemirates": {
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "population": "11.3 Million",
+    "continent": "Asia",
+    "currency": "UAE Dirham",
+    "language": "Arabic",
+    "fact": "The United Arab Emirates is home to the Burj Khalifa, the world's tallest building.",
+    "flag": "images/uae.jpg"
+  },
+  "unitedkingdom": {
+    "name": "United Kingdom",
+    "capital": "London",
+    "population": "69.6 Million",
+    "continent": "Europe",
+    "currency": "Pound Sterling",
+    "language": "English",
+    "fact": "The United Kingdom consists of England, Scotland, Wales, and Northern Ireland.",
+    "flag": "images/uk.jpg"
+  },
+  "unitedstatesofamerica": {
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "population": "342.0 Million",
+    "continent": "North America",
+    "currency": "United States Dollar",
+    "language": "English",
+    "fact": "The United States has 50 states and is home to landmarks such as the Grand Canyon and the Statue of Liberty.",
+    "flag": "images/usa.jpg"
+  },
+  "uruguay": {
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "population": "3.4 Million",
+    "continent": "South America",
+    "currency": "Uruguayan Peso",
+    "language": "Spanish",
+    "fact": "Uruguay is one of South America's most stable democracies and is known for its beaches and football culture.",
+    "flag": "images/uruguay.jpg"
+  },
+  "uzbekistan": {
+    "name": "Uzbekistan",
+    "capital": "Tashkent",
+    "population": "37.5 Million",
+    "continent": "Asia",
+    "currency": "Uzbekistani So'm",
+    "language": "Uzbek",
+    "fact": "Uzbekistan is home to the historic Silk Road cities of Samarkand, Bukhara, and Khiva.",
+    "flag": "images/uzbekistan.jpg"
+  },
+  "vanuatu": {
+    "name": "Vanuatu",
+    "capital": "Port Vila",
+    "population": "335 Thousand",
+    "continent": "Oceania",
+    "currency": "Vanuatu Vatu",
+    "language": "Bislama, English, French",
+    "fact": "Vanuatu is an island nation with active volcanoes and rich Melanesian culture.",
+    "flag": "images/vanuatu.jpg"
+  },
+  "vaticancity": {
+    "name": "Vatican City",
+    "capital": "Vatican City",
+    "population": "800",
+    "continent": "Europe",
+    "currency": "Euro",
+    "language": "Italian, Latin",
+    "fact": "Vatican City is the smallest independent country in the world and the headquarters of the Roman Catholic Church.",
+    "flag": "images/vaticancity.jpg"
+  },
+  "venezuela": {
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "population": "28.8 Million",
+    "continent": "South America",
+    "currency": "Venezuelan Bolívar",
+    "language": "Spanish",
+    "fact": "Venezuela is home to Angel Falls, the world's tallest uninterrupted waterfall.",
+    "flag": "images/venezuela.jpg"
+  },
+  "vietnam": {
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "population": "101.6 Million",
+    "continent": "Asia",
+    "currency": "Vietnamese Đồng",
+    "language": "Vietnamese",
+    "fact": "Vietnam is famous for Ha Long Bay, rich cuisine, and the world's second-largest coffee exports.",
+    "flag": "images/vietnam.jpg"
+  },
+  "yemen": {
+    "name": "Yemen",
+    "capital": "Sana'a",
+    "population": "41.8 Million",
+    "continent": "Asia",
+    "currency": "Yemeni Rial",
+    "language": "Arabic",
+    "fact": "Yemen is home to the unique Socotra Island, known for its dragon blood trees.",
+    "flag": "images/yemen.jpg"
+  },
+  "zambia": {
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "population": "22.7 Million",
+    "continent": "Africa",
+    "currency": "Zambian Kwacha",
+    "language": "English",
+    "fact": "Zambia shares Victoria Falls, one of the world's largest waterfalls, with Zimbabwe.",
+    "flag": "images/zambia.jpg"
+  },
+  "zimbabwe": {
+    "name": "Zimbabwe",
+    "capital": "Harare",
+    "population": "17.2 Million",
+    "continent": "Africa",
+    "currency": "Zimbabwe Gold (ZiG)",
+    "language": "English, Shona, Ndebele and others",
+    "fact": "Zimbabwe is home to the ancient stone city of Great Zimbabwe, a UNESCO World Heritage Site.",
+    "flag": "images/zimbabwe.jpg"
+  }
+}
+
+
